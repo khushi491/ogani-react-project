@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+.red {
+  color: red;
+  font-weight: 800;
+}
+img {
+  width: 30px;
+  height: 300px;
+}
